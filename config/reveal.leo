@@ -29,7 +29,7 @@
 <v t="leo.20181012101003.1"><vh>hw w1</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -310,8 +310,10 @@ make.start()
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.9">&lt;section&gt;
+<t tx="leo.20180827201621.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
 
