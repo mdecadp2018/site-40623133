@@ -138,14 +138,9 @@ Created by [40623133 蕭家瀚]
 
 
 </t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20180827201621.11">&lt;section&gt;
 @others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
+&lt;/section&gt;	
 </t>
 <t tx="leo.20180827201621.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
