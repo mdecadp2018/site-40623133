@@ -69,7 +69,7 @@
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20181005095426.1"><vh>Week6</vh></v>
+<v t="leo.20181005095426.1"><vh>@edit 20181019.md</vh></v>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 </v>
 </v>
@@ -104,27 +104,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20181005095426.1">@language md
----
-Title: 2018 Fall 分組網誌
-Date: 2018-10-19 11:00
-Category: Misc
-Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog-w6
-Author: 40623133
----
-
-2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-Week6
-
-----
-
-hallo
-
-----</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
