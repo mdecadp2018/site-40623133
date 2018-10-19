@@ -351,10 +351,10 @@ Homework Week 1
 Homework Week 2
 
 
-[Week 2 Homework-1](https://www.youtube.com/watch?v=Nc6y7C2gwhw&amp;t=19s)
-[Week 2 Homework-2](https://www.youtube.com/watch?v=kt2a7fOXleI)
-[Week 2 Homework-3](https://www.youtube.com/watch?v=g3JsHsJghJU)
-[Week 2 Homework-4](https://www.youtube.com/watch?v=ap0gmvzgTQU)
-[Week 2 Homework-5](https://www.youtube.com/watch?v=klfOYIbvvYo)</t>
+* [Week 2 Homework-1](https://www.youtube.com/watch?v=Nc6y7C2gwhw&amp;t=19s)
+* [Week 2 Homework-2](https://www.youtube.com/watch?v=kt2a7fOXleI)
+* [Week 2 Homework-3](https://www.youtube.com/watch?v=g3JsHsJghJU)
+* [Week 2 Homework-4](https://www.youtube.com/watch?v=ap0gmvzgTQU)
+* [Week 2 Homework-5](https://www.youtube.com/watch?v=klfOYIbvvYo)</t>
 </tnodes>
 </leo_file>
