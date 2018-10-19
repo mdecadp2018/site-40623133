@@ -111,7 +111,7 @@ Date: 2018-10-19 11:00
 Category: Misc
 Tags: 2018Fall
 Slug: 2018-Fall-Project-Blog-w6
-Author: NFUMDE
+Author: 40623133
 ---
 
 2018 Fall 開始將網際內容管理、投影片與網誌進行整合.
