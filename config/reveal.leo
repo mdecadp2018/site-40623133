@@ -34,7 +34,7 @@
 <v t="leo.20181019111007.1"><vh>hw w2</vh></v>
 </v>
 </v>
-<v t="leo.20181026110757.1"><vh>hw3</vh>
+<v t="leo.20181026110757.1" a="E"><vh>hw3</vh>
 <v t="leo.20181026110806.1" a="E"><vh>w3</vh>
 <v t="leo.20181026110813.1"><vh>w3</vh></v>
 </v>
@@ -377,7 +377,7 @@ Homework Week 2
 
 Homework Week 3
 
-[Week 1 Homework](https://www.youtube.com/watch?v=vOu9K4I19KM)
+[Week 3 Homework](https://www.youtube.com/watch?v=vOu9K4I19KM)
 </t>
 </tnodes>
 </leo_file>
