@@ -24,14 +24,19 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>hw1</vh>
+<v t="leo.20180827201621.11"><vh>hw1</vh>
 <v t="leo.20180827201621.12" a="E"><vh>w1</vh>
 <v t="leo.20181012101003.1"><vh>hw w1</vh></v>
 </v>
 </v>
-<v t="leo.20181019110902.1" a="E"><vh>hw2</vh>
+<v t="leo.20181019110902.1"><vh>hw2</vh>
 <v t="leo.20181019110948.1" a="E"><vh>w2</vh>
 <v t="leo.20181019111007.1"><vh>hw w2</vh></v>
+</v>
+</v>
+<v t="leo.20181026110757.1"><vh>hw3</vh>
+<v t="leo.20181026110806.1" a="E"><vh>w3</vh>
+<v t="leo.20181026110813.1"><vh>w3</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -355,6 +360,24 @@ Homework Week 2
 * [Week 2 Homework-2](https://www.youtube.com/watch?v=kt2a7fOXleI)
 * [Week 2 Homework-3](https://www.youtube.com/watch?v=g3JsHsJghJU)
 * [Week 2 Homework-4](https://www.youtube.com/watch?v=ap0gmvzgTQU)
-* [Week 2 Homework-5](https://www.youtube.com/watch?v=klfOYIbvvYo)</t>
+* [Week 2 Homework-5](https://www.youtube.com/watch?v=klfOYIbvvYo)
+
+</t>
+<t tx="leo.20181026110757.1">&lt;section&gt;
+@others
+&lt;/section&gt;	
+</t>
+<t tx="leo.20181026110806.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181026110813.1">## Week3
+
+Homework Week 3
+
+[Week 1 Homework](https://www.youtube.com/watch?v=vOu9K4I19KM)
+</t>
 </tnodes>
 </leo_file>
