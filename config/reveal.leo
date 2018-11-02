@@ -39,6 +39,11 @@
 <v t="leo.20181026110813.1"><vh>w3</vh></v>
 </v>
 </v>
+<v t="leo.20181102100637.1" a="E"><vh>hw5</vh>
+<v t="leo.20181102100643.1" a="E"><vh>hw5</vh>
+<v t="leo.20181102100643.2"><vh>hw5</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -372,12 +377,29 @@ Homework Week 2
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181026110813.1">## Week3
 
 Homework Week 3
 
 [Week 3 Homework](https://www.youtube.com/watch?v=vOu9K4I19KM)
 </t>
+<t tx="leo.20181102100637.1">&lt;section&gt;
+@others
+&lt;/section&gt;	
+</t>
+<t tx="leo.20181102100643.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181102100643.2">## Week5
+
+Homework Week 5
+
+[Week 5 Homework](https://www.youtube.com/watch?v=BHVGXdWIQ9s&amp;t=312s)</t>
 </tnodes>
 </leo_file>
