@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>hw1</vh>
+<v t="leo.20180827201621.11"><vh>hw1</vh>
 <v t="leo.20180827201621.12" a="E"><vh>w1</vh>
 <v t="leo.20181012101003.1"><vh>hw w1</vh></v>
 </v>
@@ -32,22 +32,49 @@
 <v t="leo.20181108211706.1"><vh>newHeadline</vh></v>
 </v>
 </v>
-<v t="leo.20181026110757.1"><vh>hw3</vh>
-<v t="leo.20181026110806.1" a="E"><vh>w3</vh>
-<v t="leo.20181026110813.1"><vh>w3</vh></v>
-</v>
-</v>
 <v t="leo.20181019110902.1"><vh>hw2</vh>
 <v t="leo.20181019110948.1" a="E"><vh>w2</vh>
 <v t="leo.20181019111007.1"><vh>hw w2</vh></v>
 </v>
+<v t="leo.20181108212855.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108212858.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181026110757.1"><vh>hw3</vh>
+<v t="leo.20181026110806.1" a="E"><vh>w3</vh>
+<v t="leo.20181026110813.1"><vh>w3</vh></v>
+</v>
+<v t="leo.20181108213021.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108213023.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181108212342.1"><vh>hw4</vh>
+<v t="leo.20181108212431.1"><vh>newHeadline</vh>
+<v t="leo.20181108212530.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 <v t="leo.20181102100637.1"><vh>hw5</vh>
-<v t="leo.20181102100643.1" a="E"><vh>hw5</vh>
+<v t="leo.20181102100643.1"><vh>hw5</vh>
 <v t="leo.20181102100643.2"><vh>hw5</vh></v>
 </v>
+<v t="leo.20181108213241.1"><vh>newHeadline</vh>
+<v t="leo.20181108213244.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+</v>
+<v t="leo.20181108212340.1"><vh>hw6</vh>
+<v t="leo.20181108212435.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108212534.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181108212741.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108212746.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181108212333.1"><vh>hw7</vh>
+<v t="leo.20181108212437.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108212537.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -420,5 +447,118 @@ Homework Week 5
 上課內容
 
 *老師要我們各位登入 Github 後, 從 Github Classroom 連結取得所指定的期中作業倉儲</t>
+<t tx="leo.20181108212333.1">&lt;section&gt;
+@others
+&lt;/section&gt;	
+</t>
+<t tx="leo.20181108212340.1">&lt;section&gt;
+@others
+&lt;/section&gt;	
+</t>
+<t tx="leo.20181108212342.1">&lt;section&gt;
+@others
+&lt;/section&gt;	
+</t>
+<t tx="leo.20181108212431.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181108212435.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181108212437.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181108212530.1">## Week4
+
+上課內容
+
+*Onshape 課程使用說明及利用手邊的英譯字典來查詢單字</t>
+<t tx="leo.20181108212534.1">## Week6
+
+上課內容
+
+人: 第九週前為個人學習
+
+事: 除了會利用 Onshape 繪出各 Lesson 中所要求的零組件外, 也希望能用手機或電腦的英英字典網羅所需了解的單字廣泛字義.
+
+時: 在不同時間點, 即便個人也會需要使用分散式版次管理系統, 來提升電腦輔助設計與繪圖效益, 等到六人協同執行期末專案時, 不同組員可能在不同時間甚至不同時區參與協同, 因此對於分散式版次管理系統的依賴將會越高.
+</t>
+<t tx="leo.20181108212537.1">## Week7
+
+上課內容
+
+*(MDE)IPv6 : 2001:288:6004:17::3
+
+*(SCHOOL)IPv6 : 2001:288:6004:1::2
+
+*HiNet IPv6 : 2001:b000:168::1
+
+*DNS server : 140.130.17.3</t>
+<t tx="leo.20181108212741.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181108212746.1">## Week6
+
+上課內容
+
+地: 由於採用可攜與雲端系統, 可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題.
+
+物: 主要採用可攜與雲端系統, 並且在 github classroom 中上課, 每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習</t>
+<t tx="leo.20181108212855.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181108212858.1">## Week2
+
+上課內容
+
+*開始學習使用Onshape 進行繪圖練習
+
+*Onshape是免費的喔!</t>
+<t tx="leo.20181108213021.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108213023.1">## Week3
+
+上課內容
+
+*複習了Github的基本功能、學習如何使用onshape
+*每周都有回家練習作業，開始慢慢熟悉onshape
+</t>
+<t tx="leo.20181108213241.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20181108213244.1">## Week4
+
+上課內容
+
+*Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上 解決Cmsimfly 的錯誤 維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容</t>
 </tnodes>
 </leo_file>
