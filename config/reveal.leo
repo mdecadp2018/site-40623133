@@ -24,9 +24,17 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>hw1</vh>
+<v t="leo.20180827201621.11" a="E"><vh>hw1</vh>
 <v t="leo.20180827201621.12" a="E"><vh>w1</vh>
 <v t="leo.20181012101003.1"><vh>hw w1</vh></v>
+</v>
+<v t="leo.20181108211652.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108211706.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20181026110757.1"><vh>hw3</vh>
+<v t="leo.20181026110806.1" a="E"><vh>w3</vh>
+<v t="leo.20181026110813.1"><vh>w3</vh></v>
 </v>
 </v>
 <v t="leo.20181019110902.1"><vh>hw2</vh>
@@ -34,12 +42,7 @@
 <v t="leo.20181019111007.1"><vh>hw w2</vh></v>
 </v>
 </v>
-<v t="leo.20181026110757.1" a="E"><vh>hw3</vh>
-<v t="leo.20181026110806.1" a="E"><vh>w3</vh>
-<v t="leo.20181026110813.1"><vh>w3</vh></v>
-</v>
-</v>
-<v t="leo.20181102100637.1" a="E"><vh>hw5</vh>
+<v t="leo.20181102100637.1"><vh>hw5</vh>
 <v t="leo.20181102100643.1" a="E"><vh>hw5</vh>
 <v t="leo.20181102100643.2"><vh>hw5</vh></v>
 </v>
@@ -156,7 +159,7 @@ Created by [40623133 蕭家瀚]
 <t tx="leo.20180827201621.11">&lt;section&gt;
 @others
 &lt;/section&gt;	
-</t>
+</t>
 <t tx="leo.20180827201621.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -165,7 +168,7 @@ Created by [40623133 蕭家瀚]
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
+<t tx="leo.20180827201621.13">section&gt;
 @others
 &lt;/section&gt;
 
@@ -394,12 +397,28 @@ Homework Week 3
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102100643.2">## Week5
 
 Homework Week 5
 
-[Week 5 Homework](https://www.youtube.com/watch?v=BHVGXdWIQ9s&amp;t=312s)</t>
+[Week 5 Homework](https://www.youtube.com/watch?v=BHVGXdWIQ9s&amp;t=312s)
+</t>
+<t tx="leo.20181108211652.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181108211706.1">## Week1
+
+上課內容
+
+*老師要我們各位登入 Github 後, 從 Github Classroom 連結取得所指定的期中作業倉儲</t>
 </tnodes>
 </leo_file>
