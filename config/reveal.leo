@@ -377,7 +377,7 @@ make.start()
 </t>
 <t tx="leo.20181019111007.1">## 手足球
 
-&lt;img src="https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/images/%E6%96%B0%E5%A0%B4.PNG" width="200" height="200"&gt;
+&lt;img src="https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/images/%E6%96%B0%E5%A0%B4.PNG" width="500" height="450"&gt;
 </t>
 <t tx="leo.20181026110757.1">&lt;section&gt;
 @others
