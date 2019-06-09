@@ -9,13 +9,13 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20180827201556.1"><vh>@settings</vh>
+<v t="leo.20180827201556.1" a="E"><vh>@settings</vh>
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="leo.20180827201621.1" a="E"><vh>編輯 reveal</vh>
 <v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180827201621.3"><vh>@clean index.html</vh>
+<v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20180827201621.4" a="E"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
@@ -30,44 +30,32 @@
 </v>
 </v>
 <v t="leo.20181019110902.1" a="E"><vh>hw2</vh>
-<v t="leo.20181019110948.1" a="E"><vh>w2</vh>
+<v t="leo.20181019110948.1" a="E"><vh>手足球</vh>
 <v t="leo.20181019111007.1"><vh>hw w2</vh></v>
 </v>
-<v t="leo.20181108212855.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20181108212858.1"><vh>newHeadline</vh></v>
 </v>
-</v>
-<v t="leo.20181026110757.1"><vh>hw3</vh>
-<v t="leo.20181026110806.1" a="E"><vh>w3</vh>
+<v t="leo.20181026110757.1" a="E"><vh>hw3</vh>
+<v t="leo.20181026110806.1" a="E"><vh>Onshape</vh>
 <v t="leo.20181026110813.1"><vh>w3</vh></v>
-</v>
-<v t="leo.20181108213021.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20181108213023.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20181108212342.1" a="E"><vh>hw4</vh>
-<v t="leo.20181108212431.1"><vh>newHeadline</vh>
+<v t="leo.20181108212431.1" a="E"><vh>v-rep簡化</vh>
 <v t="leo.20181108212530.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20181102100637.1" a="E"><vh>hw5</vh>
-<v t="leo.20181102100643.1"><vh>hw5</vh>
+<v t="leo.20181102100643.1" a="E"><vh>倉儲推送紀錄</vh>
 <v t="leo.20181102100643.2"><vh>hw5</vh></v>
 </v>
-<v t="leo.20181108213241.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20181108213244.1"><vh>newHeadline</vh></v>
 </v>
-</v>
-<v t="leo.20181108212340.1"><vh>hw6</vh>
-<v t="leo.20181108212435.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108212340.1" a="E"><vh>hw6</vh>
+<v t="leo.20181108212435.1" a="E"><vh>在小組上的貢獻</vh>
 <v t="leo.20181108212534.1"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20181108212741.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20181108212746.1"><vh>newHeadline</vh></v>
 </v>
-</v>
-<v t="leo.20181108212333.1"><vh>hw7</vh>
-<v t="leo.20181108212437.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20181108212333.1" a="E"><vh>hw7</vh>
+<v t="leo.20181108212437.1" a="E"><vh>自評</vh>
 <v t="leo.20181108212537.1"><vh>newHeadline</vh></v>
 </v>
 </v>
@@ -369,12 +357,12 @@ make.start()
 </t>
 <t tx="leo.20181012101003.1">## 大綱
 
-手足球
-v-rep簡化
-onshape
-倉儲推送紀錄
-在小組上的貢獻
-自評
+* 手足球
+* v-rep簡化
+* onshape
+* 倉儲推送紀錄
+* 在小組上的貢獻
+* 自評
 </t>
 <t tx="leo.20181019110902.1">&lt;section&gt;
 @others
@@ -387,10 +375,9 @@ onshape
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181019111007.1">##手足球
+<t tx="leo.20181019111007.1">## 手足球
 
-&lt;img caption="false" height="244" src="/images/新場.png" width="500"/&gt;&lt;/p&gt;
-
+&lt;img src="https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/images/%E6%96%B0%E5%A0%B4.PNG" width="200" height="200"&gt;
 </t>
 <t tx="leo.20181026110757.1">&lt;section&gt;
 @others
@@ -404,11 +391,10 @@ onshape
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181026110813.1">## Week3
+<t tx="leo.20181026110813.1">## Onshape
 
-Homework Week 3
 
-[Week 3 Homework](https://www.youtube.com/watch?v=vOu9K4I19KM)
+[Onshape](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/content/%E8%A8%AD%E8%A8%88%E8%88%87%E7%B9%AA%E5%9C%96.html)
 </t>
 <t tx="leo.20181102100637.1">&lt;section&gt;
 @others
@@ -423,11 +409,12 @@ Homework Week 3
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181102100643.2">## Week5
+<t tx="leo.20181102100643.2">## 倉儲推送紀錄
 
-Homework Week 5
 
-[Week 5 Homework](https://www.youtube.com/watch?v=BHVGXdWIQ9s&amp;t=312s)
+[小組](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g2/graphs/contributors)
+
+[Fork](https://github.com/40623130/cd2019a/graphs/contributors)
 </t>
 <t tx="leo.20181108212333.1">&lt;section&gt;
 @others
@@ -468,99 +455,28 @@ Homework Week 5
 
     &lt;/script&gt;
 </t>
-<t tx="leo.20181108212530.1">## Week4
+<t tx="leo.20181108212530.1">## v-rep簡化
 
-上課內容
-
-*Onshape 課程使用說明及利用手邊的英譯字典來查詢單字
+[v-rep](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/content/%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%91%A8-%E7%B0%A1%E5%8C%96.html)
 </t>
-<t tx="leo.20181108212534.1">## Week6
+<t tx="leo.20181108212534.1">## 在小組上的貢獻
 
-上課內容
-
-人: 第九週前為個人學習
-
-事: 除了會利用 Onshape 繪出各 Lesson 中所要求的零組件外, 也希望能用手機或電腦的英英字典網羅所需了解的單字廣泛字義.
-
-時: 在不同時間點, 即便個人也會需要使用分散式版次管理系統, 來提升電腦輔助設計與繪圖效益, 等到六人協同執行期末專案時, 不同組員可能在不同時間甚至不同時區參與協同, 因此對於分散式版次管理系統的依賴將會越高.
-</t>
-<t tx="leo.20181108212537.1">## Week7
-
-上課內容
-
-*(MDE)IPv6 : 2001:288:6004:17::3
-
-*(SCHOOL)IPv6 : 2001:288:6004:1::2
-
-*HiNet IPv6 : 2001:b000:168::1
-
-*DNS server : 140.130.17.3
-</t>
-<t tx="leo.20181108212741.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-
-
-    &lt;/script&gt;
-&lt;/section&gt;
+小組上我負責設計與繪圖、編輯網站以及PDF
+並時不時檢查網站所有，看一下哪邊有出錯
 
 </t>
-<t tx="leo.20181108212746.1">## Week6
+<t tx="leo.20181108212537.1">## 自評
 
-上課內容
+學員出席(20%) 20分
 
-地: 由於採用可攜與雲端系統, 可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題.
+Github 倉儲管理(20%) 20分
 
-物: 主要採用可攜與雲端系統, 並且在 github classroom 中上課, 每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習
-</t>
-<t tx="leo.20181108212855.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
+Onshape 協同操作(20%) 20分
 
-    &lt;/script&gt;
-&lt;/section&gt;
+V-rep 模擬(20%) 5分
 
-</t>
-<t tx="leo.20181108212858.1">## Week2
+程式開發(20%) 4分
 
-上課內容
-
-*開始學習使用Onshape 進行繪圖練習
-
-*Onshape是免費的喔!
-</t>
-<t tx="leo.20181108213021.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108213023.1">## Week3
-
-上課內容
-
-*複習了Github的基本功能、學習如何使用onshape
-*每周都有回家練習作業，開始慢慢熟悉onshape
-</t>
-<t tx="leo.20181108213241.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108213244.1">## Week5
-
-上課內容
-
-*Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上 解決Cmsimfly 的錯誤 維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容
-</t>
+總分:69分</t>
 </tnodes>
 </leo_file>
